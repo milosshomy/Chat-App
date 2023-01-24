@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radio-btn-inner.show {
+  display: block;
+}
